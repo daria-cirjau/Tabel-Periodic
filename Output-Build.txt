@@ -1,3 +1,3 @@
-﻿1>------ Build started: Project: Kikimie, Configuration: Debug Any CPU ------
-1>  Kikimie -> E:\CodeBlocks\C#\Kikimie\Kikimie\bin\Debug\Kikimie.exe
+﻿1>------ Build started: Project: Tabelul-Periodic, Configuration: Debug Any CPU ------
+1>  Tabelul-Periodic -> E:\CodeBlocks\C#\Tabelul-Periodice\Tabelul-Periodic\bin\Debug\Tabelul-Periodic.exe
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
