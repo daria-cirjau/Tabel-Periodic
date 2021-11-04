@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3EDFE56E-55B8-413C-A710-C7636DE309E1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Kikimie</RootNamespace>
-    <AssemblyName>Kikimie</AssemblyName>
+    <RootNamespace>Tabelul-Periodic</RootNamespace>
+    <AssemblyName>Tabelul-Periodic</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
