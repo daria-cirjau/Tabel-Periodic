@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabelulPeriodic", "Kikimie\TabelulPeriodic.csproj", "{3EDFE56E-55B8-413C-A710-C7636DE309E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabelulPeriodic", "Tabelul-Periodic\TabelulPeriodic.csproj", "{3EDFE56E-55B8-413C-A710-C7636DE309E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
